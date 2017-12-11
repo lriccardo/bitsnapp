@@ -12,6 +12,11 @@ body {
 
 .playstore {
     width: 200px;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .playstore_container {
@@ -70,6 +75,11 @@ a {
 .swiper-slide img {
     width: 25%;
     text-align: center;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .swiper-button-next,
