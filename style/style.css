@@ -1,0 +1,88 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300ita??lic,400italic,500,500italic,700,700italic,900italic,900);
+html, html * {
+  font-family: Roboto;
+}
+
+
+
+body{
+    background-color: #37474f !important;
+}
+
+.playstore{
+	width: 200px;
+}
+
+.playstore_container{
+	text-align: center;
+    margin-top: 6%;
+}
+.main_title{
+    color: #009688;
+    font-size: 50px;
+    text-align: center;
+}
+
+.content{
+    margin: 3% 3% 3% 3%;
+    color: white;
+}
+
+a{
+    color: #009688 !important;
+}
+
+.main_footer{
+    padding-bottom: 1%;
+    margin-right: 3%;
+    margin-top: 5%;
+    text-align: right;
+}
+
+.legal{
+	font-size: 10px;
+}
+
+.container{
+    background-color: #102027 !important;
+    border-radius: 8px;
+    margin-top: 2%;
+}
+
+
+.carousel-control-prev{
+   justify-content: start !important;
+}
+.carousel-control-next{
+   justify-content: end !important;
+}
+.swiper-container {
+    max-width: 45%;
+    min-height: 450px;
+    text-align: center;
+    margin-top: 3% !important;
+}
+.swiper-slide img{
+    width: 45%;
+    text-align: center;
+}
+
+.swiper-button-next,
+.swiper-container-rtl .swiper-button-prev,
+.swiper-button-prev, 
+.swiper-container-rtl .swiper-button-next{
+    background-image: none !important;
+}
+.logo{
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.swiper-pagination-bullet{
+    background-color: #8b969c !important;
+}
+.swiper-pagination-bullet-active{
+    background-color: #009688 !important;
+}
