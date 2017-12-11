@@ -62,9 +62,9 @@ a {
 
 .swiper-container {
     max-width: 45%;
-    min-height: 450px;
     text-align: center;
     margin-top: 3% !important;
+    padding-bottom: 6% !important;
 }
 
 .swiper-slide img {
@@ -94,11 +94,4 @@ a {
     background-color: #009688 !important;
 }
 
-.not_found{
-    font-family: Roboto medium;
-    color: #009688;
-    text-align: center;
-    margin-top: 20%;
-    vertical-align: middle;
-    font-size: 50px;
-}
+
