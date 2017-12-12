@@ -2,8 +2,14 @@
 html,
 html * {
     font-family: Roboto;
+    
 }
 
+
+html, body {
+    margin: 0;
+    height: 98%;
+}
 
 
 body {
@@ -44,6 +50,8 @@ a {
     margin-right: 3%;
     margin-top: 5%;
     text-align: right;
+    bottom:0;
+    position: absolute;
 }
 
 .legal {
@@ -54,8 +62,9 @@ a {
     background-color: #102027 !important;
     border-radius: 8px;
     margin-top: 1%;
+    min-height: 100%;
+    position: relative;
 }
-
 
 .carousel-control-prev {
     justify-content: start !important;
