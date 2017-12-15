@@ -1,1 +1,4 @@
 Disallow: /iframes/
+Disallow: /privacy.html
+Disallow: /terms.html
+Disallow: /disclaimer.html
