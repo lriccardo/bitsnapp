@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments for Test Bitsnapp</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://http://bitsnapp.com/sito_temp/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://http://bitsnapp.com/sito_temp/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 14 Jan 2018 13:41:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 14 Jan 2018 14:08:28 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.4</generator>
