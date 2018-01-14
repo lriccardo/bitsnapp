@@ -9,7 +9,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Test Bitsnapp &lsaquo; Log In</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='http://http://bitsnapp.com/sito_temp/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.4' type='text/css' media='all' />
+<link rel='stylesheet' href='http://bitsnapp.com/sito_temp/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.4' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
 		</head>
@@ -17,7 +17,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Test Bitsnapp</a></h1>
 	
-<form name="loginform" id="loginform" action="http://http://bitsnapp.com/sito_temp/wp-login.php" method="post">
+<form name="loginform" id="loginform" action="http://bitsnapp.com/sito_temp/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Username or Email Address<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -29,13 +29,13 @@
 		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-		<input type="hidden" name="redirect_to" value="http://http://bitsnapp.com/sito_temp/wp-admin/" />
+		<input type="hidden" name="redirect_to" value="http://bitsnapp.com/sito_temp/wp-admin/" />
 		<input type="hidden" name="testcookie" value="1" />
 	</p>
 </form>
 
 <p id="nav">
-	<a href="http://http://bitsnapp.com/sito_temp/wp-login.php?action=lostpassword">Lost your password?</a>
+	<a href="http://bitsnapp.com/sito_temp/wp-login.php?action=lostpassword">Lost your password?</a>
 </p>
 
 <script type="text/javascript">
@@ -59,7 +59,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="http://http://bitsnapp.com/sito_temp/">&larr; Back to Test Bitsnapp</a></p>
+	<p id="backtoblog"><a href="http://bitsnapp.com/sito_temp/">&larr; Back to Test Bitsnapp</a></p>
 	
 	</div>
 
