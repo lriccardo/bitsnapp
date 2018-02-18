@@ -5,16 +5,47 @@
 {
 "id": 0,
 "enabled": true,
-"title": "TITLE",
-"text": "TEXT",
+"title": "TITOLO ANNUNCIO 1",
+"text": "TESTO .................... ANNUNCIO ...................... 1",
 "versionMode": "all",
 "versionExclude": "",
 "versionLower": 0,
 "versionHigher": 0,
 "versionList": "",
-"tag1": "",
-"tag2": "",
-"tag3": ""
+"tag1": "TAG1",
+"tag2": "TAG2",
+"tag3": "TAG3",
+"isImportant": true
+},
+{
+"id": 1,
+"enabled": true,
+"title": "TITOLO ANNUNCIO 2",
+"text": "TESTO .................... ANNUNCIO ...................... 2",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "TAG1",
+"tag2": "TAG2",
+"tag3": "TAG3",
+"isImportant": false
+},
+{
+"id": 2,
+"enabled": true,
+"title": "TITOLO ANNUNCIO 3",
+"text": "TESTO .................... ANNUNCIO ...................... 3",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "TAG1",
+"tag2": "TAG2",
+"tag3": "TAG3",
+"isImportant": false
 }
 ]
 }
