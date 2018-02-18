@@ -1,0 +1,19 @@
+{
+"clear_all": false,
+"data":
+[
+{
+"id": 0,
+"enabled": true,
+"title": "TITLE",
+"text": "TEXT",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": "",
+"versionHigher": "",
+"tag1": "",
+"tag2": "",
+"tag3": ""
+}
+]
+}
