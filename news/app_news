@@ -5,8 +5,8 @@
 {
 "id": 0,
 "enabled": true,
-"title": "TITLE IMPORTANT 1",
-"text": "....................................................................................................................................................................................",
+"title": "AN IMPORTANT TITLE HERE",
+"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue, urna a ultrices mollis, sem erat ornare sapien, a ornare lorem felis vitae purus. Nulla malesuada convallis odio accumsan posuere. In egestas nunc id euismod faucibus. Duis aliquam augue ipsum. ",
 "versionMode": "all",
 "versionExclude": "",
 "versionLower": 0,
@@ -20,8 +20,8 @@
 {
 "id": 1,
 "enabled": true,
-"title": "TITLE ........... 2",
-"text": "....................................................................................................................................................................................",
+"title": "A LONG TITLE HERE A LONG TITLE HERE",
+"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue, urna a ultrices mollis, sem erat ornare sapien, a ornare lorem felis vitae purus. Nulla malesuada convallis odio accumsan posuere. In egestas nunc id euismod faucibus. Duis aliquam augue ipsum. ",
 "versionMode": "all",
 "versionExclude": "",
 "versionLower": 0,
@@ -35,8 +35,8 @@
 {
 "id": 2,
 "enabled": true,
-"title": "TITLE ........... 3",
-"text": "....................................................................................................................................................................................",
+"title": "A SHORT TITLE",
+"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue, urna a ultrices mollis, sem erat ornare sapien, a ornare lorem felis vitae purus. Nulla malesuada convallis odio accumsan posuere. In egestas nunc id euismod faucibus. Duis aliquam augue ipsum. ",
 "versionMode": "all",
 "versionExclude": "",
 "versionLower": 0,
