@@ -9,8 +9,9 @@
 "text": "TEXT",
 "versionMode": "all",
 "versionExclude": "",
-"versionLower": "",
-"versionHigher": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
 "tag1": "",
 "tag2": "",
 "tag3": ""
