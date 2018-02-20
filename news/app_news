@@ -6,16 +6,6 @@
 "id": 0,
 "enabled": true,
 "title": "AN IMPORTANT TITLE HERE",
-"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue, urna a ultrices mollis, sem erat ornare sapien, a ornare lorem felis vitae purus. Nulla malesuada convallis odio accumsan posuere. In egestas nunc id",
-"versionMode": "all",
-"versionExclude": "",
-"versionLower": 0,
-"versionHigher": 0,
-"versionList": "",
-"tag1": "TAG1",
-"tag2": "TAG2",
-"tag3": "TAG3",
-"isImportant": true
 
 ]
 }
