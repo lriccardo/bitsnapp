@@ -1,0 +1,21 @@
+{
+"clear_all": false,
+"data":
+[
+{
+"id": 0,
+"enabled": true,
+"title": "Update 1.6.1b is out!",
+"text": "This is a minor patch, possibly the last update before the first stable release. Check it out and let me know if you find any bug!",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "Update",
+"tag2": "1.6.1b",
+"tag3": "Beta",
+"isImportant": false
+}
+]
+}
