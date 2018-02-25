@@ -16,6 +16,21 @@
 "tag2": "1.6.1b",
 "tag3": "Beta",
 "isImportant": false
+},
+{
+"id": 1,
+"enabled": true,
+"title": "Minor bug",
+"text": "There is a minor bug in this version that causes the red dot (new announcement) to show up at launch, a fix will be available in the next update.",
+"versionMode": "versionList",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "51,52",
+"tag1": "Update",
+"tag2": "1.6.1b",
+"tag3": "Beta",
+"isImportant": false
 }
 ]
 }
