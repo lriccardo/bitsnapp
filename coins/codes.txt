@@ -3,16 +3,41 @@
 "data":
 [
 {
-"exchangeName": 0,
-"originalCodes": "",
-"correctCodes": ""
+"exchangeName": "Bitfinex",
+"originalCodes": "QSH,QTM,SPK,DAT",
+"correctCodes": "QASH,QTUM,SPANK,DATA"
 },
 {
-"exchangeName": 0,
-"originalCodes": "",
-"correctCodes": ""
+"exchangeName": "Bitbay",
+"originalCodes": "BCC",
+"correctCodes": "BCH"
+},
+{
+"exchangeName": "Bittrex",
+"originalCodes": "BCC",
+"correctCodes": "BCH"
+},
+{
+"exchangeName": "Binance",
+"originalCodes": "BCC",
+"correctCodes": "BCH"
+},
+{
+"exchangeName": "Liqui",
+"originalCodes": "BCC",
+"correctCodes": "BCH"
+},
+{
+"exchangeName": "Poloniex",
+"originalCodes": "STR",
+"correctCodes": "XLM"
+},
+{
+"exchangeName": "Bitcoin Indonesia",
+"originalCodes": "STR",
+"correctCodes": "XLM"
 }
 ],
-"globalOriginalCodes": "",
-"globalCorrectCodes": ""
+"globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,YOYO,BQX,NBT,XRB",
+"globalCorrectCodes": "IOT,IOT,IOT,IOT,YOYOW,ETHOS,USNBT,NANO"
 }
