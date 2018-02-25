@@ -1,0 +1,18 @@
+{
+"clear_all": false,
+"data":
+[
+{
+"exchangeName": 0,
+"originalCodes": "",
+"correctCodes": ""
+},
+{
+"exchangeName": 0,
+"originalCodes": "",
+"correctCodes": ""
+}
+],
+"globalOriginalCodes": "",
+"globalCorrectCodes": ""
+}
