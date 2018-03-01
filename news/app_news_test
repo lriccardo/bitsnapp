@@ -31,6 +31,21 @@
 "tag2": "Minor",
 "tag3": "Beta",
 "isImportant": false
+},
+{
+"id": 2,
+"enabled": true,
+"title": "We are out of beta!",
+"text": "Version 1.6.5 is the first stable release, you can now leave public reviews (they are really helpful). More info about the beta will come!",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "Announcement",
+"tag2": "Stable",
+"tag3": "",
+"isImportant": false
 }
 ]
 }
