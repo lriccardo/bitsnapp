@@ -38,6 +38,6 @@
 "correctCodes": "XLM"
 }
 ],
-"globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,YOYO,BQX,NBT,XRB",
-"globalCorrectCodes": "IOT,IOT,IOT,IOT,YOYOW,ETHOS,USNBT,NANO"
+"globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,mIOT,YOYO,BQX,NBT,XRB",
+"globalCorrectCodes": "IOT,IOT,IOT,IOT,IOT,YOYOW,ETHOS,USNBT,NANO"
 }
