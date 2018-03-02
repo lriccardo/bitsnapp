@@ -36,7 +36,7 @@
 "id": 2,
 "enabled": true,
 "title": "We are out of beta!",
-"text": "Version 1.6.5 is the first stable release, you can now leave public reviews (they are really helpful). More info about the beta will come!",
+"text": "Version 1.6.5 is the first stable release, you can now leave public reviews (positive reviews are really helpful). More info about the beta will come!",
 "versionMode": "all",
 "versionExclude": "",
 "versionLower": 0,
