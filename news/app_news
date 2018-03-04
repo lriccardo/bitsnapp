@@ -50,8 +50,8 @@
 {
 "id": 3,
 "enabled": true,
-"title": "Temporary issue when import XRP balances",
-"text": "There are some issues when tracking XRP addresses, they are not on my end and should hopefully get fixed soon.",
+"title": "Temporary issue importing XRP balances",
+"text": "XRP Tracking should be working as expected now.",
 "versionMode": "all",
 "versionExclude": "",
 "versionLower": 0,
@@ -59,7 +59,7 @@
 "versionList": "",
 "tag1": "Issues",
 "tag2": "XRP",
-"tag3": "2018-03-03",
+"tag3": "2018-03-04",
 "isImportant": false
 }
 ]
