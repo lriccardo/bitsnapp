@@ -73,27 +73,7 @@ body { font-size:14px; }
 <link rel='shortlink' href='/temp/' />
 <link rel="alternate" type="application/json+oembed" href="/temp/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbitsnapp.local%2F" />
 <link rel="alternate" type="text/xml+oembed" href="/temp/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbitsnapp.local%2F&#038;format=xml" />
-<style>.lazyload,
-        .lazyloading {
-			opacity: 0;
-		}
-		
-		
-		.lazyloaded {
-			opacity: 1;
-			transition: opacity 300ms;
-		}.lazyloading {
-  color: transparent;
-  opacity: 1;
-  transition: opacity 300ms;
-  background: url("data:image/svg+xml,%3Csvg%20width%3D%2244%22%20height%3D%2244%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20stroke%3D%22%23efefef%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%20stroke-width%3D%222%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%221%22%3E%3Canimate%20attributeName%3D%22r%22%20begin%3D%220s%22%20dur%3D%221.8s%22%20values%3D%221%3B%2020%22%20calcMode%3D%22spline%22%20keyTimes%3D%220%3B%201%22%20keySplines%3D%220.165%2C%200.84%2C%200.44%2C%201%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22stroke-opacity%22%20begin%3D%220s%22%20dur%3D%221.8s%22%20values%3D%221%3B%200%22%20calcMode%3D%22spline%22%20keyTimes%3D%220%3B%201%22%20keySplines%3D%220.3%2C%200.61%2C%200.355%2C%201%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2Fcircle%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%221%22%3E%3Canimate%20attributeName%3D%22r%22%20begin%3D%22-0.9s%22%20dur%3D%221.8s%22%20values%3D%221%3B%2020%22%20calcMode%3D%22spline%22%20keyTimes%3D%220%3B%201%22%20keySplines%3D%220.165%2C%200.84%2C%200.44%2C%201%22%20repeatCount%3D%22indefinite%22%2F%3E%3Canimate%20attributeName%3D%22stroke-opacity%22%20begin%3D%22-0.9s%22%20dur%3D%221.8s%22%20values%3D%221%3B%200%22%20calcMode%3D%22spline%22%20keyTimes%3D%220%3B%201%22%20keySplines%3D%220.3%2C%200.61%2C%200.355%2C%201%22%20repeatCount%3D%22indefinite%22%2F%3E%3C%2Fcircle%3E%3C%2Fg%3E%3C%2Fsvg%3E") no-repeat;
-  background-size: 2em 2em;
-  background-position: center center;
-}
-
-.lazyloaded {
-  transition: none;
-}</style><noscript><style>.lazyload { display: none; }</style></noscript>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<link rel="icon" href="/temp/wp-content/uploads/2018/02/cropped-web_hi_res_512-32x32.png" sizes="32x32" />
 <link rel="icon" href="/temp/wp-content/uploads/2018/02/cropped-web_hi_res_512-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="/temp/wp-content/uploads/2018/02/cropped-web_hi_res_512-180x180.png" />
@@ -128,12 +108,39 @@ body { font-size:14px; }
 	  position: absolute;
     width: 100%;
 }
-.header-button{
-	border: 2px solid #009688 !important;
-	font-size: 18px;
-	font-weight: 400;
-	 outline: none;
+
+@media only screen 
+and (max-width : 360px) {
+	.header-button{
+  border: 1px solid #009688 !important;
+  font-size: 9px !important;
+  font-weight: 200 !important;
+   outline: none;
 }
+	.header-text{
+		font-size: 12px !important;
+	}
+	.header-subtext{
+		font-size: 10px !important;
+	}
+	.header-screen{
+		margin-left: 8% !important;
+	}
+	.header-info{
+		padding-top: 12% !important;
+	}
+}
+
+@media only screen 
+and (max-width : 1250px) {
+
+  .header-screen{
+    margin-left: 8% !important;
+  }
+}
+
+
+
 a.header-button{
 	color: #009688;
   outline: none;
@@ -250,8 +257,7 @@ li a, li a:active, li a:focus {
 				<div class="service-area clearfix">
 											<div class="service astrid-3col">
 														<div class="service-thumb">
-								<noscript><IMG class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image " width="64" height="64" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_refresh_256_0_009688_none-e1520612546128.png" data-aspectratio="64/64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_refresh_256_0_009688_none-e1520612546128.png"></noscript><img width="64" height="64" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image lazyload" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_refresh_256_0_009688_none-e1520612546128.png" data-aspectratio="64/64">
-							</div>
+								<img width="64" height="64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_refresh_256_0_009688_none-e1520612546128.png" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image" alt="" />							</div>
 														<div class="service-content">
 								<!-- <h3 class="service-title"><a href=""></a></h3> -->
 								<h3 class="service-title"><div>API Sync</div></h3>
@@ -259,8 +265,7 @@ li a, li a:active, li a:focus {
 						</div>
 											<div class="service astrid-3col">
 														<div class="service-thumb">
-								<noscript><IMG class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image " width="64" height="64" alt="" data-src="/temp/wp-content/uploads/ligature-symbols_2-11-0_chain_64_0_009688_none.png" data-aspectratio="64/64" src="/temp/wp-content/uploads/ligature-symbols_2-11-0_chain_64_0_009688_none.png"></noscript><img width="64" height="64" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image lazyload" alt="" data-src="/temp/wp-content/uploads/ligature-symbols_2-11-0_chain_64_0_009688_none.png" data-aspectratio="64/64">
-							</div>
+								<img width="64" height="64" src="/temp/wp-content/uploads/ligature-symbols_2-11-0_chain_64_0_009688_none.png" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image" alt="" />							</div>
 														<div class="service-content">
 								<!-- <h3 class="service-title"><a href=""></a></h3> -->
 								<h3 class="service-title"><div>Address tracking</div></h3>
@@ -268,8 +273,7 @@ li a, li a:active, li a:focus {
 						</div>
 											<div class="service astrid-3col">
 														<div class="service-thumb">
-								<noscript><IMG class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image " width="64" height="64" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_pie-chart_64_0_009688_none.png" data-aspectratio="64/64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_pie-chart_64_0_009688_none.png"></noscript><img width="64" height="64" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image lazyload" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_pie-chart_64_0_009688_none.png" data-aspectratio="64/64">
-							</div>
+								<img width="64" height="64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_pie-chart_64_0_009688_none.png" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image" alt="" />							</div>
 														<div class="service-content">
 								<!-- <h3 class="service-title"><a href=""></a></h3> -->
 								<h3 class="service-title"><div>Portfolio charts</div></h3>
@@ -277,8 +281,7 @@ li a, li a:active, li a:focus {
 						</div>
 											<div class="service astrid-3col">
 														<div class="service-thumb">
-								<noscript><IMG class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image " width="64" height="64" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_line-chart_64_0_009688_none.png" data-aspectratio="64/64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_line-chart_64_0_009688_none.png"></noscript><img width="64" height="64" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image lazyload" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_line-chart_64_0_009688_none.png" data-aspectratio="64/64">
-							</div>
+								<img width="64" height="64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_line-chart_64_0_009688_none.png" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image" alt="" />							</div>
 														<div class="service-content">
 								<!-- <h3 class="service-title"><a href=""></a></h3> -->
 								<h3 class="service-title"><div>Detailed coin view</div></h3>
@@ -286,8 +289,7 @@ li a, li a:active, li a:focus {
 						</div>
 											<div class="service astrid-3col">
 														<div class="service-thumb">
-								<noscript><IMG class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image " width="64" height="64" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_newspaper-o_64_0_009688_none.png" data-aspectratio="64/64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_newspaper-o_64_0_009688_none.png"></noscript><img width="64" height="64" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image lazyload" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_newspaper-o_64_0_009688_none.png" data-aspectratio="64/64">
-							</div>
+								<img width="64" height="64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_newspaper-o_64_0_009688_none.png" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image" alt="" />							</div>
 														<div class="service-content">
 								<!-- <h3 class="service-title"><a href=""></a></h3> -->
 								<h3 class="service-title"><div>News</div></h3>
@@ -295,8 +297,7 @@ li a, li a:active, li a:focus {
 						</div>
 											<div class="service astrid-3col">
 														<div class="service-thumb">
-								<noscript><IMG class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image " width="64" height="64" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_lock_64_0_009688_none.png" data-aspectratio="64/64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_lock_64_0_009688_none.png"></noscript><img width="64" height="64" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image lazyload" alt="" data-src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_lock_64_0_009688_none.png" data-aspectratio="64/64">
-							</div>
+								<img width="64" height="64" src="/temp/wp-content/uploads/2018/02/font-awesome_4-7-0_lock_64_0_009688_none.png" class="attachment-astrid-small-thumb size-astrid-small-thumb wp-post-image" alt="" />							</div>
 														<div class="service-content">
 								<!-- <h3 class="service-title"><a href=""></a></h3> -->
 								<h3 class="service-title"><div>Security</div></h3>
@@ -330,7 +331,7 @@ li a, li a:active, li a:focus {
 			</div>
 					</div>
 
-	</div></section><section id="screenshot_1" data-color="inherit" style="color:#f4f4f4;background-color:#21252a;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-11" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Your crypto assets in a snap</h2>			<div class="textwidget"><p><noscript><IMG class="hoverZoomLink wp-image-354 size-full aligncenter " alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/byasset_line-e1518127911136.png" data-aspectratio="343/612" src="/temp/wp-content/uploads/2018/02/byasset_line-e1518127911136.png"></noscript><img class="hoverZoomLink wp-image-354 size-full aligncenter lazyload" alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/byasset_line-e1518127911136.png" data-aspectratio="343/612"></p>
+	</div></section><section id="screenshot_1" data-color="inherit" style="color:#f4f4f4;background-color:#21252a;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-11" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Your crypto assets in a snap</h2>			<div class="textwidget"><p><img class="hoverZoomLink wp-image-354 size-full aligncenter" src="/temp/wp-content/uploads/2018/02/byasset_line-e1518127911136.png" alt="" width="343" height="612" /></p>
 <div align="center">
 <p>&nbsp;</p>
 <h3>1500+ supported cryptocurrencies</h3>
@@ -338,59 +339,58 @@ li a, li a:active, li a:focus {
 <p>&nbsp;</p>
 <div id="hzImg" style="border: 1px solid #ffffff; line-height: 0; overflow: hidden; padding: 2px; margin: 0px; position: absolute; z-index: 2147483647; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.33) 3px 3px 9px 5px; opacity: 1; top: 377px; left: 46px; background-color: #ffffff; cursor: pointer; pointer-events: none; display: none;"></div>
 </div>
-		</div></section><section id="screenshot_2" data-color="inherit" style="color:#f7f7f7;background-color:#37474f;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-13" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Portfolio dashboard</h2>			<div class="textwidget"><p><noscript><IMG class="aligncenter size-full wp-image-355 " alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/portfolio_pie-e1518128286785.png" data-aspectratio="343/612" src="/temp/wp-content/uploads/2018/02/portfolio_pie-e1518128286785.png"></noscript><img class="aligncenter size-full wp-image-355 lazyload" alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/portfolio_pie-e1518128286785.png" data-aspectratio="343/612"></p>
+		</div></section><section id="screenshot_2" data-color="inherit" style="color:#f7f7f7;background-color:#37474f;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-13" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Portfolio dashboard</h2>			<div class="textwidget"><p><img class="aligncenter size-full wp-image-355" src="/temp/wp-content/uploads/2018/02/portfolio_pie-e1518128286785.png" alt="" width="343" height="612" /></p>
 <div align="center">
 <p>&nbsp;</p>
 <h3>A better understanding of your portfolio</h3>
 </div>
 </div>
-		</div></section><section id="screenshot_3" data-color="inherit" style="color:#f7f7f7;background-color:#37474f;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-12" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Detailed market data at a glance</h2>			<div class="textwidget"><p><noscript><IMG class="aligncenter size-full wp-image-356 " alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/detail-e1518128452523.png" data-aspectratio="343/612" src="/temp/wp-content/uploads/2018/02/detail-e1518128452523.png"></noscript><img class="aligncenter size-full wp-image-356 lazyload" alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/detail-e1518128452523.png" data-aspectratio="343/612"></p>
+		</div></section><section id="screenshot_3" data-color="inherit" style="color:#f7f7f7;background-color:#37474f;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-12" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Detailed market data at a glance</h2>			<div class="textwidget"><p><img class="aligncenter size-full wp-image-356" src="/temp/wp-content/uploads/2018/02/detail-e1518128452523.png" alt="" width="343" height="612" /></p>
 <div align="center">
 <p>&nbsp;</p>
 <h3>Real time market data and historical charts</h3>
 </div>
 </div>
-		</div></section><section id="screenshots" data-color="inherit" style="color:#ffffff;background-color:#21252a;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-24" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Keep it safe</h2>			<div class="textwidget"><p><noscript><IMG class="aligncenter size-full wp-image-573 " alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/pin_lock-e1519312337988.png" data-aspectratio="343/612" src="/temp/wp-content/uploads/2018/02/pin_lock-e1519312337988.png"></noscript><img class="aligncenter size-full wp-image-573 lazyload" alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/pin_lock-e1519312337988.png" data-aspectratio="343/612"></p>
+		</div></section><section id="screenshots" data-color="inherit" style="color:#ffffff;background-color:#21252a;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-24" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Keep it safe</h2>			<div class="textwidget"><p><img class="aligncenter size-full wp-image-573" src="/temp/wp-content/uploads/2018/02/pin_lock-e1519312337988.png" alt="" width="343" height="612" /></p>
 <p>&nbsp;</p>
 <h3>Lock the app with a custom PIN. Fingerprint supported!</h3>
 </div>
-		</div></section><section id="download" data-color="inherit" style="color:#0a0a0a;background-color:;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-21" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:;"><span class="title-decoration"></span>DOWNLOAD FOR FREE</h2>			<div class="textwidget"><p>&nbsp;
-</p>
+		</div></section><section id="download" data-color="inherit" style="color:#0a0a0a;background-color:;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-21" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:;"><span class="title-decoration"></span>DOWNLOAD FOR FREE</h2>			<div class="textwidget"><p>&nbsp;</p>
 <div align="center">
 <p>&nbsp;</p>
 <h3>Download the app, it&#8217;s free!</h3>
 </div>
-<p><a href="https://play.google.com/store/apps/details?id=bitsnapp.com.bitsnapp"><noscript><IMG class="playstore aligncenter " alt="Get it on Google Play" width="323" height="125" data-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" data-aspectratio="323/125" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"></noscript><img class="playstore aligncenter lazyload" alt="Get it on Google Play" width="323" height="125" data-src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" data-aspectratio="323/125"></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=bitsnapp.com.bitsnapp"><img class="playstore aligncenter" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="323" height="125" /></a></p>
 <h3></h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </div>
-		</div></section><section id="screenshot_4" data-color="inherit" style="color:#ffffff;background-color:#37474f;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-22" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Follow your investments</h2>			<div class="textwidget"><p><noscript><IMG class="aligncenter size-full wp-image-358 " alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/news1-e1518128563763.png" data-aspectratio="343/612" src="/temp/wp-content/uploads/2018/02/news1-e1518128563763.png"></noscript><img class="aligncenter size-full wp-image-358 lazyload" alt="" width="343" height="612" data-src="/temp/wp-content/uploads/2018/02/news1-e1518128563763.png" data-aspectratio="343/612"></p>
+		</div></section><section id="screenshot_4" data-color="inherit" style="color:#ffffff;background-color:#37474f;padding-top:10px;padding-bottom:10px;background-image:url();" id="text-22" class="widget clearfix at-2-col widget_text"><div class="atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>Follow your investments</h2>			<div class="textwidget"><p><img class="aligncenter size-full wp-image-358" src="/temp/wp-content/uploads/2018/02/news1-e1518128563763.png" alt="" width="343" height="612" /></p>
 <div align="center">
 <p>&nbsp;</p>
 <h3>Select your favorite sources and don&#8217;t miss the latest news</h3>
 </div>
 </div>
 		</div></section><section id="contacts" data-color="noinherit" style="color:;background-color:#37474f;padding-top:25px;padding-bottom:25px;background-image:url();" id="custom_html-5" class="widget_text widget widget_custom_html"><div class="widget_text atblock container"><h2 class="widget-title" style="color:#ffffff;"><span class="title-decoration"></span>CONTACTS</h2><div class="textwidget custom-html-widget"><div class="contacts_container">
-<div class="custom_contacts">
-<a href="https://www.reddit.com/r/Bitsnapp/"><noscript><IMG class=" " data-src="/temp/wp-content/uploads/2018/02/Reddit_Logo-e1518132349419.png" src="/temp/wp-content/uploads/2018/02/Reddit_Logo-e1518132349419.png"></noscript><img data-src="/temp/wp-content/uploads/2018/02/Reddit_Logo-e1518132349419.png" class=" lazyload"></a>  
+<div class="custom_contacts" >
+<a href="https://www.reddit.com/r/Bitsnapp/"><img src="/temp/wp-content/uploads/2018/02/Reddit_Logo-e1518132349419.png"></a>  
 </div>
 
-	<div class="custom_contacts">
-<a href="https://twitter.com/Bitsnapp"><noscript><IMG class=" " data-src="/temp/wp-content/uploads/2018/02/twitter-e1518164974488.png" src="/temp/wp-content/uploads/2018/02/twitter-e1518164974488.png"></noscript><img data-src="/temp/wp-content/uploads/2018/02/twitter-e1518164974488.png" class=" lazyload"></a>  
+	<div class="custom_contacts" >
+<a href="https://twitter.com/Bitsnapp"><img src="/temp/wp-content/uploads/2018/02/twitter-e1518164974488.png"></a>  
 </div>
 
   <div class="custom_contacts">
-<a href="https://discord.gg/M7nZDKh"><noscript><IMG class=" " data-src="/temp/wp-content/uploads/2018/02/discord-e1518164434305.png" src="/temp/wp-content/uploads/2018/02/discord-e1518164434305.png"></noscript><img data-src="/temp/wp-content/uploads/2018/02/discord-e1518164434305.png" class=" lazyload"></a>  
+<a href="https://discord.gg/M7nZDKh"><img src="/temp/wp-content/uploads/2018/02/discord-e1518164434305.png"></a>  
 </div>
 
 
 <div class="custom_contacts">
-<a href="https://www.facebook.com/BitsnappOfficial/"><noscript><IMG class=" " data-src="/temp/wp-content/uploads/2018/02/facebook-e1518164437603.png" src="/temp/wp-content/uploads/2018/02/facebook-e1518164437603.png"></noscript><img data-src="/temp/wp-content/uploads/2018/02/facebook-e1518164437603.png" class=" lazyload"></a>  
+<a href="https://www.facebook.com/BitsnappOfficial/"><img src="/temp/wp-content/uploads/2018/02/facebook-e1518164437603.png"></a>  
 </div>
 	
 	  <div class="custom_contacts">
-<a href="mailto:bitsnapp@gmail.com"><noscript><IMG class=" " data-src="/temp/wp-content/uploads/2018/02/email.png" src="/temp/wp-content/uploads/2018/02/email.png"></noscript><img data-src="/temp/wp-content/uploads/2018/02/email.png" class=" lazyload"></a>  
+<a href="mailto:bitsnapp@gmail.com"><img src="/temp/wp-content/uploads/2018/02/email.png"></a>  
 </div>
 </div>
 </div></div></section>			
@@ -433,9 +433,6 @@ li a, li a:active, li a:focus {
 <!--[if lt IE 9]>
 <script type='text/javascript' src='/temp/wp-content/themes/astrid/js/html5shiv.js?ver=4.9.4'></script>
 <![endif]-->
-<script type='text/javascript' src='/temp/wp-content/plugins/lazy-loading-responsive-images/js/lazysizes.min.js?ver=4.9.4'></script>
-<script type='text/javascript' src='/temp/wp-content/plugins/lazy-loading-responsive-images/js/ls.unveilhooks.min.js?ver=4.9.4'></script>
-<script type='text/javascript' src='/temp/wp-content/plugins/lazy-loading-responsive-images/js/ls.aspectratio.min.js?ver=4.9.4'></script>
 <script type='text/javascript' src='/temp/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
 <script type="text/javascript">window.onscroll = function() {scrollFunction()};
 
