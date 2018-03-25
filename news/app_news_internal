@@ -1,0 +1,81 @@
+{
+"clear_all": false,
+"data":
+[
+{
+"id": 0,
+"enabled": true,
+"title": "Update 1.6.1b is out!",
+"text": "This is a minor patch, possibly the last update before the first stable release. Check it out and let me know if you find any bug!",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "Update",
+"tag2": "1.6.1b",
+"tag3": "Beta",
+"isImportant": false
+},
+{
+"id": 1,
+"enabled": true,
+"title": "Minor bug",
+"text": "There is a minor bug in this version that causes the red dot (new announcements) to always show up at launch, a fix will be available in the next update.",
+"versionMode": "versionList",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "51,52",
+"tag1": "Bug",
+"tag2": "Minor",
+"tag3": "Beta",
+"isImportant": false
+},
+{
+"id": 2,
+"enabled": true,
+"title": "We are out of beta!",
+"text": "Version 1.6.5 is the first stable release, you can now leave public reviews (positive reviews are really helpful). More info about the beta will come!",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "Announcement",
+"tag2": "Stable",
+"tag3": "",
+"isImportant": false
+},
+{
+"id": 3,
+"enabled": true,
+"title": "Temporary issue importing XRP balances",
+"text": "XRP Tracking should be working as expected now.",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "Issues",
+"tag2": "XRP",
+"tag3": "2018-03-04",
+"isImportant": false
+},
+{
+"id": 5,
+"enabled": true,
+"title": "Bitsnapp development updates",
+"text": "Some news about Bitsnapp development, more info here: https://goo.gl/kYYdF7",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "News",
+"tag2": "Bitsnapp",
+"tag3": "2018-03-25",
+"isImportant": false
+}
+]
+}
