@@ -61,6 +61,21 @@
 "tag2": "XRP",
 "tag3": "2018-03-04",
 "isImportant": false
+},
+{
+"id": 4,
+"enabled": true,
+"title": "Bitsnapp development updates",
+"text": "Some news about Bitsnapp development, more info here: https://goo.gl/kYYdF7",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "News",
+"tag2": "Bitsnapp",
+"tag3": "2018-03-25",
+"isImportant": false
 }
 ]
 }
