@@ -76,6 +76,21 @@
 "tag2": "Bitsnapp",
 "tag3": "2018-03-25",
 "isImportant": false
+},
+{
+"id": 5,
+"enabled": true,
+"title": "Bitsnapp beta",
+"text": "You can now join the beta! New cool features and a graphical redesign! Use this link to join the beta: https://goo.gl/t18V5u",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "News",
+"tag2": "Bitsnapp",
+"tag3": "2018-04-10",
+"isImportant": false
 }
 ]
 }
