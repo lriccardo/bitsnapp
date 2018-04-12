@@ -4,8 +4,8 @@
 [
 {
 "exchangeName": "Bitfinex",
-"originalCodes": "QSH,QTM,SPK,DAT",
-"correctCodes": "QASH,QTUM,SPANK,DATA"
+"originalCodes": "QSH,QTM,SPK,DAT,AIO",
+"correctCodes": "QASH,QTUM,SPANK,DATA,AION"
 },
 {
 "exchangeName": "Bitbay",
