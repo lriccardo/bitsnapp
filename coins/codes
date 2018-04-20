@@ -36,6 +36,11 @@
 "exchangeName": "Bitcoin Indonesia",
 "originalCodes": "STR",
 "correctCodes": "XLM"
+},
+{
+"exchangeName": "ERC20TOKENS",
+"originalCodes": "nCash",
+"correctCodes": "NCASH"
 }
 ],
 "globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,mIOT,YOYO,BQX,NBT,XRB",
