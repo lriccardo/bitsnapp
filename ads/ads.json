@@ -3,14 +3,6 @@
     	
 ],
 "adsNews": [
-	{
-			"adType": "thumbTitle",
-			"thumbnailUrl": "https://images.pexels.com/photos/658687/pexels-photo-658687.jpeg?auto=compress&cs=tinysrgb&h=64",
-			"title": "Bla bla bla bla bla bla bla",
-			"url": "https://www.google.com",
-			"position": 0,
-			"fixed": "true",
-			"id": 0
-		}
+
 ]
 }
