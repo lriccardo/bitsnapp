@@ -1,8 +1,16 @@
 {
 "adsDetails": [
-    	
+   
 ],
 "adsNews": [
-
+	{
+			"adType": "thumbTitle",
+			"thumbnailUrl": "https://cdn-images-1.medium.com/fit/c/60/60/1*frButiQh-edBdMgLUbUs3A.jpeg",
+			"title": "Alttex: Cryptocurrency is rapidly gaining popularity",
+			"url": "https://medium.com/@alttexico/crypto-currency-is-very-fast-gaining-popularity-81695c5e74f3",
+			"position": 0,
+			"fixed": "true",
+			"id": 0
+		}
 ]
 }
