@@ -5,12 +5,21 @@
 "adsNews": [
 	{
 			"adType": "thumbTitle",
-			"thumbnailUrl": "https://cdn-images-1.medium.com/fit/c/60/60/1*frButiQh-edBdMgLUbUs3A.jpeg",
+			"thumbnailUrl": "https://cdn-images-1.medium.com/fit/c/128/128/1*frButiQh-edBdMgLUbUs3A.jpeg",
 			"title": "Alttex: Cryptocurrency is rapidly gaining popularity",
 			"url": "https://medium.com/@alttexico/crypto-currency-is-very-fast-gaining-popularity-81695c5e74f3",
 			"position": 0,
 			"fixed": "true",
 			"id": 0
+		},
+		{
+			"adType": "thumbTitle",
+			"thumbnailUrl": "https://bitsnapp.com/logos/sharpay.png",
+			"title": "Sharpay.io token sale ends this month - My opinion on the project",
+			"url": "https://steemit.com/sharpay/@arcange/sharpay-io-token-sale-ends-this-month-my-opinion-on-the-project",
+			"position": 6,
+			"fixed": "true",
+			"id": 1
 		}
 ]
 }
