@@ -39,8 +39,8 @@
 },
 {
 "exchangeName": "ERC20TOKENS",
-"originalCodes": "nCash,cV",
-"correctCodes": "NCASH,CV"
+"originalCodes": "nCash,cV,PPC,BQX",
+"correctCodes": "NCASH,CV,PPC*,ETHOS"
 }
 ],
 "globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,mIOT,YOYO,BQX,NBT,XRB",
