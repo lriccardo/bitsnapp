@@ -20,6 +20,16 @@
             "fixed": "true",
             "sourceName": "Medium",
             "id": 2
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Bitcoin Hacker to Serve 10-Years in UK Prison",
+            "url": "https://cryptocomes.com/bitcoin-hacker-to-serve-10-years-in-uk-prison",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1527528300",
+            "id": 3
         }
     ]
 }
