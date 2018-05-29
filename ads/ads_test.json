@@ -30,6 +30,16 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1527528300",
             "id": 3
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": " INVIA GmbH, Austrian Crypto-Mining Firm, Barred from Operations",
+            "url": "https://cryptocomes.com/invia-gmbh-austrian-crypto-mining-firm-barred-from-operations",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1527626400",
+            "id": 4
         }
     ]
 }
