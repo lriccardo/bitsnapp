@@ -41,6 +41,11 @@
 "exchangeName": "ERC20TOKENS",
 "originalCodes": "nCash,cV,PPC,BQX",
 "correctCodes": "NCASH,CV,PPC*,ETHOS"
+},
+{
+"exchangeName": "ERC20TOKENSBYNAME",
+"originalCodes": "Lancer Token,Pangea Arbitration Token",
+"correctCodes": "LNC*,PAT*"
 }
 ],
 "globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,mIOT,YOYO,BQX,NBT,XRB",
