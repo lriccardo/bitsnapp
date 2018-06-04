@@ -40,6 +40,16 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1527626400",
             "id": 4
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Ripple Donates $50 Mln to Boost Blockchain and Cryptocurrency Adoption ",
+            "url": "https://cryptocomes.com/ripple-donates-50-mln-to-boost-blockchain-and-cryptocurrency-adoption",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528144620",
+            "id": 5
         }
     ]
 }
