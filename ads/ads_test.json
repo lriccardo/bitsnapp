@@ -50,6 +50,16 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1528144620",
             "id": 5
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "CryptoKitties Co-Founder Benny Giang: Spend a Week Understanding Why Crypto Matters to You",
+            "url": "https://cryptocomes.com/cryptokitties-co-founder-benny-giang-spend-a-week-understanding-why-crypto-matters-to-you",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528227480",
+            "id": 6
         }
     ]
 }
