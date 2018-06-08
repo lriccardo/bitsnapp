@@ -60,6 +60,16 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1528227480",
             "id": 6
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Yes or No to Fireworks: Swiss \u201cCrypto Valley\u201d Zug to Test Blockchain Voting",
+            "url": "https://cryptocomes.com/yes-or-no-to-fireworks-swiss-crypto-valley-zug-to-test-blockchain-voting",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528489560",
+            "id": 7
         }
     ]
 }
