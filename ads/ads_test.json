@@ -40,6 +40,36 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1527626400",
             "id": 4
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Ripple Donates $50 Mln to Boost Blockchain and Cryptocurrency Adoption ",
+            "url": "https://cryptocomes.com/ripple-donates-50-mln-to-boost-blockchain-and-cryptocurrency-adoption",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528144620",
+            "id": 5
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "CryptoKitties Co-Founder Benny Giang: Spend a Week Understanding Why Crypto Matters to You",
+            "url": "https://cryptocomes.com/cryptokitties-co-founder-benny-giang-spend-a-week-understanding-why-crypto-matters-to-you",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528227480",
+            "id": 6
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Yes or No to Fireworks: Swiss \u201cCrypto Valley\u201d Zug to Test Blockchain Voting",
+            "url": "https://cryptocomes.com/yes-or-no-to-fireworks-swiss-crypto-valley-zug-to-test-blockchain-voting",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528489560",
+            "id": 7
         }
     ]
 }
