@@ -70,6 +70,16 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1528489560",
             "id": 7
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Crypto Trading Tips and Tricks: 10 Secrets to Make Your Trading Successful ",
+            "url": "https://cryptocomes.com/crypto-trading-tips-and-tricks-10-secrets-to-make-your-trading-successful",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528663800",
+            "id": 8
         }
     ]
 }
