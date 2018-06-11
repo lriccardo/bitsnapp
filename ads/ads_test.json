@@ -1,14 +1,14 @@
 {
     "adsDetails": [
-	{
-	"adType": "standard",
-	"id": 0,
-	"title": "Utrum ICO is LIVE: 15% Bonus",
-	"description": "Crypto-Investors Playbook: Crowdwisdom, Rewards, A.I.",
-	"url": "https://bit.ly/2l2ELi8",
-	"thumbnailUrl": "https://www.bitsnapp.com/ads/logos/oot.png"
-	}
-	],
+        {
+            "adType": "standard",
+            "id": 0,
+            "title": "Utrum ICO is LIVE: 15% Bonus",
+            "description": "Crypto-Investors Playbook: Crowdwisdom, Rewards, A.I.",
+            "url": "https://bit.ly/2l2ELi8",
+            "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/oot.png"
+        }
+    ],
     "adsNews": [
         {
             "adType": "thumbTitle",
@@ -60,7 +60,7 @@
             "timestamp": "1528489560",
             "id": 7
         },
-		 {
+        {
             "adType": "thumbTitle",
             "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/oot.png",
             "title": "Utrum Seeks to Make Crypto Investing Accessible and Friendly",
@@ -69,6 +69,16 @@
             "fixed": "true",
             "sourceName": "Cryptovest",
             "id": 8
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Crypto Asset Regulation Getting Serious in Israel",
+            "url": "https://cryptocomes.com/crypto-asset-regulation-getting-serious-in-israel",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528735800",
+            "id": 9
         }
     ]
 }
