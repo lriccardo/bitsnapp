@@ -10,6 +10,15 @@
 	}
 	],
 "adsNews": [
-
+ {
+	"adType": "thumbTitle",
+	"thumbnailUrl": "https://www.bitsnapp.com/ads/logos/oot.png",
+	"title": "Utrum Seeks to Make Crypto Investing Accessible and Friendly",
+	"url": "https://bit.ly/2kZqliz",
+	"position": 0,
+	"fixed": "true",
+	"sourceName": "Cryptovest",
+	"id": 4
+},
 ]
 }
