@@ -79,6 +79,16 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1528735800",
             "id": 9
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "European Union Launches Web Forum to \u2018Illuminate\u2019 People on Crypto",
+            "url": "https://cryptocomes.com/european-union-launches-web-forum-to-illuminate-people-on-crypto",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528825260",
+            "id": 10
         }
     ]
 }
