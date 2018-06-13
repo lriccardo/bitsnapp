@@ -89,6 +89,16 @@
             "sourceName": "Cryptocomes",
             "timestamp": "1528825260",
             "id": 10
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Liberland\u2019s V\u00edt Jedli\u010dka: \u201cWe Are Building Our Civilization On the Boats\u201d ",
+            "url": "https://cryptocomes.com/liberlands-vit-jedlicka-we-are-building-our-civilization-on-the-boats",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528920960",
+            "id": 11
         }
     ]
 }
