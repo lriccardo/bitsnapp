@@ -1,14 +1,14 @@
 {
     "adsDetails": [
-	{
-	"adType": "standard",
-	"id": 0,
-	"title": "Utrum ICO is LIVE: 15% Bonus",
-	"description": "Crypto-Investors Playbook: Crowdwisdom, Rewards, A.I.",
-	"url": "https://bit.ly/2l2ELi8",
-	"thumbnailUrl": "https://www.bitsnapp.com/ads/logos/oot.png"
-	}
-	],
+        {
+            "adType": "standard",
+            "id": 0,
+            "title": "Utrum ICO is LIVE: 15% Bonus",
+            "description": "Crypto-Investors Playbook: Crowdwisdom, Rewards, A.I.",
+            "url": "https://bit.ly/2l2ELi8",
+            "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/oot.png"
+        }
+    ],
     "adsNews": [
         {
             "adType": "thumbTitle",
@@ -60,7 +60,7 @@
             "timestamp": "1528489560",
             "id": 7
         },
-		 {
+        {
             "adType": "thumbTitle",
             "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/oot.png",
             "title": "Utrum Seeks to Make Crypto Investing Accessible and Friendly",
@@ -69,6 +69,36 @@
             "fixed": "true",
             "sourceName": "Cryptovest",
             "id": 8
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Crypto Asset Regulation Getting Serious in Israel",
+            "url": "https://cryptocomes.com/crypto-asset-regulation-getting-serious-in-israel",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528735800",
+            "id": 9
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "European Union Launches Web Forum to \u2018Illuminate\u2019 People on Crypto",
+            "url": "https://cryptocomes.com/european-union-launches-web-forum-to-illuminate-people-on-crypto",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528825260",
+            "id": 10
+        },
+        {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/logos/cryptocomes.png",
+            "title": "Liberland\u2019s V\u00edt Jedli\u010dka: \u201cWe Are Building Our Civilization On the Boats\u201d ",
+            "url": "https://cryptocomes.com/liberlands-vit-jedlicka-we-are-building-our-civilization-on-the-boats",
+            "fixed": false,
+            "sourceName": "Cryptocomes",
+            "timestamp": "1528920960",
+            "id": 11
         }
     ]
 }
