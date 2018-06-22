@@ -3,6 +3,15 @@
 
 ],
 "adsNews": [
-
+ {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex.png",
+            "title": "RipaEx - DPOS Financial Ecosystem",
+            "url": "https://steemit.com/news/@ripaex/ripaex-dpos-financial-ecosystem",
+            "position": 9,
+            "fixed": "true",
+            "sourceName": "Steemit",
+            "id": 6
+        }
 ]
 }
