@@ -29,6 +29,16 @@
             "fixed": "true",
             "sourceName": "Steemit",
             "id": 6
+        },
+		{
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://bitsnapp.com/ads/logos/bitsnapp.png",
+            "title": "Deflation and Liberty in the Bitcoin Era",
+            "url": "https://medium.com/bitsnapp/deflation-and-liberty-in-the-bitcoin-era-874c5ec5764e",
+            "fixed": false,
+            "sourceName": "Bitsnapp",
+            "timestamp": "1530286232",
+            "id": 11
         }
     ]
 }
