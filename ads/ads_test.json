@@ -30,15 +30,15 @@
             "sourceName": "Steemit",
             "id": 6
         },
-		{
+		 {
             "adType": "thumbTitle",
-            "thumbnailUrl": "https://bitsnapp.com/ads/logos/bitsnapp.png",
-            "title": "Deflation and Liberty in the Bitcoin Era",
-            "url": "https://medium.com/bitsnapp/deflation-and-liberty-in-the-bitcoin-era-874c5ec5764e",
-            "fixed": false,
-            "sourceName": "Bitsnapp",
-            "timestamp": "1530286232",
-            "id": 11
+            "thumbnailUrl": "https://cdn-images-1.medium.com/max/800/0*DslgJ2wbVD6Kc0VU.",
+            "title": "An Introduction to CargoCoin",
+            "url": "https://medium.com/@cdurr/an-introduction-to-cargocoin-62cad86442ec",
+            "position": 17,
+            "fixed": "true",
+            "sourceName": "Medium",
+            "id": 12
         }
     ]
 }
