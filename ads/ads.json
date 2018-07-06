@@ -10,16 +10,6 @@
         }
     ],
     "adsNews": [
-		{
-			"adType": "thumbTitle",
-			"thumbnailUrl": "https://www.bitsnapp.com/ads/logos/tuurnt.png",
-			"title": "Tuurnt- Earn Tokens for Hosting & Attending Events",
-			"url": "https://steemit.com/ico/@captaintuurnt/tuurnt-pre-token-sale-june-2018",
-			"position": 0,
-			"fixed": "true",
-			"sourceName": "Steemit",
-			"id": 7
-		},
         {
             "adType": "thumbTitle",
             "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex.png",
