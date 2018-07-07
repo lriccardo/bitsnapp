@@ -91,6 +91,22 @@
 "tag2": "Bitsnapp",
 "tag3": "2018-04-10",
 "isImportant": false
+},
+{
+"id": 6,
+"enabled": true,
+"title": "Join us on Telegram!",
+"text": "Group: https://t.me/bitsnapp \n
+Channel: https://t.me/bitsnappannouncements",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "News",
+"tag2": "Bitsnapp",
+"tag3": "2018-07-07",
+"isImportant": false
 }
 ]
 }
