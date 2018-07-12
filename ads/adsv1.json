@@ -1,13 +1,6 @@
 {
     "adsDetails": [
-        {
-            "adType": "standard",
-            "id": 1,
-            "title": "RipaEx - Crypto Asset Marketplace",
-            "description": "Hybrid-dex, making the opening of new exchanges easier and more secure",
-            "url": "https://ripaex.io/",
-            "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex_large.png"
-        }
+   
     ],
     "adsNews": [
         {
@@ -19,16 +12,6 @@
             "fixed": "true",
             "sourceName": "Steemit",
             "id": 6
-        },
-		 {
-            "adType": "thumbTitle",
-            "thumbnailUrl": "https://cdn-images-1.medium.com/max/800/0*DslgJ2wbVD6Kc0VU.",
-            "title": "An Introduction to CargoCoin",
-            "url": "https://medium.com/@cdurr/an-introduction-to-cargocoin-62cad86442ec",
-            "position": 17,
-            "fixed": "true",
-            "sourceName": "Medium",
-            "id": 12
         }
     ]
 }
