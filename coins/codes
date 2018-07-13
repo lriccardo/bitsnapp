@@ -44,8 +44,8 @@
 },
 {
 "exchangeName": "ERC20TOKENSBYNAME",
-"originalCodes": "Lancer Token,Pangea Arbitration Token,OCoin,BAX",
-"correctCodes": "LNC*,PAT*,OCN*,BAX*"
+"originalCodes": "Lancer Token,Pangea Arbitration Token,OCoin,BAX,Hero Origen Token,Globitex",
+"correctCodes": "LNC*,PAT*,OCN*,BAX*,HERO*,GBX*"
 }
 ],
 "globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,mIOT,YOYO,BQX,NBT,XRB",
