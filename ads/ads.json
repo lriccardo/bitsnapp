@@ -13,12 +13,12 @@
         {
             "adType": "thumbTitle",
             "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex.png",
-            "title": "RipaEx - DPOS Financial Ecosystem",
-            "url": "https://steemit.com/news/@ripaex/ripaex-dpos-financial-ecosystem",
+            "title": "RipaEx project Newsletter",
+            "url": "https://steemit.com/news/@ripaex/ripaex-project-newsletter-06-15-2018-airdrops-targets-reached-and-targets-in-scope",
             "position": 9,
             "fixed": "true",
             "sourceName": "Steemit",
-            "id": 6
+            "id": 7
         }
     ]
 }
