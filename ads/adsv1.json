@@ -1,6 +1,6 @@
 {
     "adsDetails": [
-          {
+           {
             "adType": "standard",
             "id": 1,
             "title": "RipaEx - Crypto Asset Marketplace",
@@ -10,7 +10,7 @@
         }
     ],
     "adsNews": [
-     {
+        {
             "adType": "thumbTitle",
             "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex.png",
             "title": "RipaEx project Newsletter",
@@ -19,6 +19,16 @@
             "fixed": "true",
             "sourceName": "Steemit",
             "id": 7
+        },
+		 {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://s3.amazonaws.com/user-media.venngage.com/810544-1d7366a6897615df9ae3f23bb6820e2a.png",
+            "title": "Disrupting Supply Chains with Blockchain!",
+            "url": "https://steemit.com/ethereum/@hatu/disrupting-supply-chains-with-blockchain",
+            "position": 19,
+            "fixed": "true",
+            "sourceName": "Steemit",
+            "id": 8
         }
     ]
 }
