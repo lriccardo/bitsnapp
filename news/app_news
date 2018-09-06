@@ -107,6 +107,21 @@ Channel: https://t.me/bitsnappannouncements",
 "tag2": "Bitsnapp",
 "tag3": "2018-07-07",
 "isImportant": false
+},
+{
+"id": 7,
+"enabled": true,
+"title": "Crash when syncing Cryptopia",
+"text": "The app is crashing on certain devices when syncing Cryptopia exchange, the issue will be fixed in Bitsnapp 1.7.14 (available in few hours)",
+"versionMode": "versionList",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "97,98",
+"tag1": "Issues",
+"tag2": "Cryptopia",
+"tag3": "2018-09-06",
+"isImportant": false
 }
 ]
 }
