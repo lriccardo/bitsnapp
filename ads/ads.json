@@ -22,6 +22,16 @@
             "sourceName": "Koinalert",
             "id": 9,
 			"timestamp": "1537015524"
+        },
+		 {
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.koinalert.com/wp-content/uploads/2018/01/bitcoin-koinalert.jpg",
+            "title": "Seize Property of BitConnect Promoters in Bitcoin Scam of $5.6 billion",
+            "url": "https://www.koinalert.com/seize-property-of-bitconnect-promoters-in-bitcoin-scam-of-5-6-billion/",
+            "fixed": "false",
+            "sourceName": "Koinalert",
+            "id": 10,
+			"timestamp": "1537027208"
         }
     ]
 }
