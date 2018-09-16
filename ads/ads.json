@@ -22,6 +22,16 @@
             "sourceName": "Koinalert",
             "id": 9,
 			"timestamp": "1537015524"
+        },
+		{
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.koinalert.com/wp-content/uploads/2018/01/bitcoin-koinalert.jpg",
+            "title": "Tim Draper Predicts Total Crypto Market Cap of $80 Trillion in Next 15 Years",
+            "url": "https://www.koinalert.com/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years/",
+            "fixed": "false",
+            "sourceName": "Koinalert",
+            "id": 10,
+			"timestamp": "1537088043"
         }
     ]
 }
