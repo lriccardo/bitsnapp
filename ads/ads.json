@@ -32,6 +32,16 @@
             "sourceName": "Koinalert",
             "id": 10,
 			"timestamp": "1537088043"
+        },
+		{
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://www.koinalert.com/wp-content/uploads/2018/01/bitcoin-koinalert.jpg",
+            "title": "Binance to launch Singapore FIAT exchange in 3 days",
+            "url": "https://www.koinalert.com/binance-to-launch-singapore-fiat-exchange-in-3-days/",
+            "fixed": "false",
+            "sourceName": "Koinalert",
+            "id": 11,
+			"timestamp": "1537212024"
         }
     ]
 }
