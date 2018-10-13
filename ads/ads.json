@@ -20,6 +20,17 @@
             "sourceName": "Steemit",
             "id": 7,
 			"label": "Sponsored"
+        },
+		{
+            "adType": "thumbTitle",
+            "thumbnailUrl": "https://bitsnapp.com/img/web_hi_res_512.png",
+            "title": "Bitsnapp 1.8b is out - push notifications, auto backup, chat, new backend, performance improvements and much more!",
+            "url": "https://medium.com/bitsnapp/bitsnapp-1-8b-b0b6df79aa2b",
+            "position": 0,
+            "fixed": "true",
+            "sourceName": "Medium",
+            "id": 8,
+			"label": "Announcement"
         }
     ]
 }
