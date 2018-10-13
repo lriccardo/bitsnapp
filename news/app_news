@@ -122,6 +122,21 @@ Channel: https://t.me/bitsnappannouncements",
 "tag2": "Cryptopia",
 "tag3": "2018-09-06",
 "isImportant": false
+},
+{
+"id": 8,
+"enabled": true,
+"title": "Bitsnapp 1.8b is out",
+"text": "Push notifications, auto backup, chat, new backend, performance improvements and much more! \nFull article: https://medium.com/bitsnapp/bitsnapp-1-8b-b0b6df79aa2b \nEnable beta: https://play.google.com/apps/testing/bitsnapp.com.bitsnapp",
+"versionMode": "all",
+"versionExclude": "",
+"versionLower": 0,
+"versionHigher": 0,
+"versionList": "",
+"tag1": "Beta 1.8",
+"tag2": "Bitsnapp",
+"tag3": "2018-10-13",
+"isImportant": false
 }
 ]
 }
