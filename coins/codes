@@ -33,9 +33,19 @@
 "correctCodes": "XLM"
 },
 {
+"exchangeName": "HitBTC",
+"originalCodes": "BITS",
+"correctCodes": "BITS**"
+},
+{
 "exchangeName": "Bitcoin Indonesia",
 "originalCodes": "STR",
 "correctCodes": "XLM"
+},
+{
+"exchangeName": "Cryptopia",
+"originalCodes": "DOT",
+"correctCodes": "DOT*"
 },
 {
 "exchangeName": "ERC20TOKENS",
