@@ -8,6 +8,11 @@
 "correctCodes": "QASH,QTUM,SPANK,DATA,AION"
 },
 {
+"exchangeName": "Binance",
+"originalCodes": "SBTC",
+"correctCodes": "SBTC*"
+},
+{
 "exchangeName": "Bitbay",
 "originalCodes": "BCC",
 "correctCodes": "BCH"
