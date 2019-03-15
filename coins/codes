@@ -63,6 +63,6 @@
 "correctCodes": "LNC*,PAT*,OCN*,BAX*,HERO*,GBX*,PAR*"
 }
 ],
-"globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,mIOT,YOYO,BQX,NBT,XRB,BCHABC",
-"globalCorrectCodes": "IOT,IOT,IOT,IOT,IOT,YOYOW,ETHOS,USNBT,NANO,BCH"
+"globalOriginalCodes": "MIOT,mIOTA,IOTA,MIOTA,mIOT,YOYO,BQX,NBT,XRB,BCHABC,ONG",
+"globalCorrectCodes": "IOT,IOT,IOT,IOT,IOT,YOYOW,ETHOS,USNBT,NANO,BCH,ONG*"
 }
