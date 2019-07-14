@@ -1,27 +1,17 @@
 {
     "adsDetails": [
-          
     ],
     "adsNews": [
-        {
+		{
             "adType": "thumbTitle",
-            "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex.png",
-            "title": "RipaEx project Newsletter",
-            "url": "https://steemit.com/news/@ripaex/ripaex-project-newsletter-06-15-2018-airdrops-targets-reached-and-targets-in-scope",
-            "position": 9,
+            "thumbnailUrl": "https://bitsnapp.com/img/web_hi_res_512.png",
+            "title": "Bitsnapp 1.8b is out - push notifications, auto backup, chat, new backend, performance improvements and much more!",
+            "url": "https://medium.com/bitsnapp/bitsnapp-1-8b-b0b6df79aa2b",
+            "position": 0,
             "fixed": "true",
-            "sourceName": "Steemit",
-            "id": 7
-        },
-		 {
-            "adType": "thumbTitle",
-            "thumbnailUrl": "https://s3.amazonaws.com/user-media.venngage.com/810544-1d7366a6897615df9ae3f23bb6820e2a.png",
-            "title": "Disrupting Supply Chains with Blockchain!",
-            "url": "https://steemit.com/ethereum/@hatu/disrupting-supply-chains-with-blockchain",
-            "position": 19,
-            "fixed": "true",
-            "sourceName": "Steemit",
-            "id": 8
+            "sourceName": "Medium",
+            "id": 8,
+			"label": "Announcement"
         }
     ]
 }
