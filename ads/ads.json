@@ -1,26 +1,7 @@
 {
     "adsDetails": [
-	   {
-		"adType": "standard",
-		"id": 1,
-		"title": "RipaEx - Crypto Asset Marketplace",
-		"description": "Hybrid-dex, making the opening of new exchanges easier and more secure",
-		"url": "https://ripaex.io/",
-		"thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex_large.png"
-	}
     ],
     "adsNews": [
-        {
-            "adType": "thumbTitle",
-            "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex.png",
-            "title": "RipaEx CEO interview at Business and Leaders",
-            "url": "https://steemit.com/news/@ripaex/ripaex-ceo-interview-at-business-and-leaders",
-            "position": 9,
-            "fixed": "true",
-            "sourceName": "Steemit",
-            "id": 7,
-			"label": "Sponsored"
-        },
 		{
             "adType": "thumbTitle",
             "thumbnailUrl": "https://bitsnapp.com/img/web_hi_res_512.png",
