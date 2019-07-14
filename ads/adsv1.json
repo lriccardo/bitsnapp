@@ -3,16 +3,6 @@
            
     ],
     "adsNews": [
-        {
-            "adType": "thumbTitle",
-            "thumbnailUrl": "https://www.bitsnapp.com/ads/logos/ripaex.png",
-            "title": "RipaEx project Newsletter",
-            "url": "https://steemit.com/news/@ripaex/ripaex-project-newsletter-06-15-2018-airdrops-targets-reached-and-targets-in-scope",
-            "position": 9,
-            "fixed": "true",
-            "sourceName": "Steemit",
-            "id": 7
-        },
 		 {
             "adType": "thumbTitle",
             "thumbnailUrl": "https://s3.amazonaws.com/user-media.venngage.com/810544-1d7366a6897615df9ae3f23bb6820e2a.png",
